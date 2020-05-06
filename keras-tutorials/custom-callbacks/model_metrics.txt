@@ -1,0 +1,3 @@
+This file will contain the model metrics.
+Since empty files cannot be uploaded, this text is only used as a placeholder.
+The text will be deleted once the notebook "Keras_Callback_Example" is run.
